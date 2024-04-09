@@ -26,7 +26,7 @@ https://trello.com/b/Js0U4iu3/movie-project
    - Implement lazy loading functionality.
    - Implement the bookmark icon and functionality.
 6. Single Movie Page:
-   - Retrieve and display data for a specific movie from the TMDB API.
+   - Retrieve and display data for a specific movie from the TMDB API. Additionally, include the movie trailer if available.
    - Display movie poster and description.
    - Display 5 actors who played in the movie.
    - Display the movie trailer.
