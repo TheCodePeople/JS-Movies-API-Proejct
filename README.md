@@ -45,3 +45,12 @@ https://trello.com/b/Js0U4iu3/movie-project
    - Retrieve and display a list of bookmarked movies.
 10. Deployment:
     - Deploy the project to GitHub.io or Netlify.
+
+## BONUS:
+
+Add a section to the home page that showcases suggested movies. This section will display a list of handpicked movies curated by our team, complete with images, titles, descriptions, and trailers from YouTube.
+
+Additionally:
+
+Implement a button that allows registered users to add a movie to our database.
+Enable registered users to edit or delete movies they have added.
