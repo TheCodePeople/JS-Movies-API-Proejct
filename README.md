@@ -11,7 +11,7 @@ https://trello.com/b/Js0U4iu3/movie-project
    - Set up the project repository on GitHub.
    - Decide on the design and layout of the website.
 2. Home Page:
-   - Retrieve and display data for the most popular movies, trending movies, and latest trailer from the TMDB API.
+   - Retrieve and display data for the most popular movies and trending moviesfrom the TMDB API.
    - Implement a filter for popular, release date, top rated, now playing, and upcoming movies.
    - Implement a bookmark icon and functionality.
 3. Navbar:
